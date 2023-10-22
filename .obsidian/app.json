@@ -1,1 +1,8 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "trashOption": "local"
+}
