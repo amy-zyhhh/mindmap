@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "vimMode": false
 }
