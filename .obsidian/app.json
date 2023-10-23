@@ -5,5 +5,5 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
   "trashOption": "local",
-  "vimMode": false
+  "vimMode": true
 }
