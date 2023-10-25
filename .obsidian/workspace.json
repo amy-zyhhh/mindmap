@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e958757a54abe71",
@@ -147,7 +146,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d9513165fa8a5d98",
+  "active": "0e91502d012a02c1",
   "lastOpenFiles": [
     "草稿/复变函数.md",
     "草稿/组会.md",
