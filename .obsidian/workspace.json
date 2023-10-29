@@ -11,8 +11,12 @@
             "id": "03989fb8fb3b8e79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-29.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2023-10-29.md"
+              }
+            }
+          },
+          {
+            "id": "9f5a3d465ffa3d0a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,8 +155,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ef24f33e71f90684",
+  "active": "9f5a3d465ffa3d0a",
   "lastOpenFiles": [
+    "2023-10-29.md",
     "2023-10-30.md",
     "Day Planner/2023-10-29.md",
     "Day Planner/2023-10-28.md",
