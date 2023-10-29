@@ -11,8 +11,12 @@
             "id": "4400b3bcc12059b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day Planner/2023-10-29.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planner/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day Planner/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-29.md"
+                "file": "Day Planner/2023-10-29.md"
               }
             }
           },
@@ -149,9 +155,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d9513165fa8a5d98",
+  "active": "4400b3bcc12059b1",
   "lastOpenFiles": [
-    "2023-10-29.md",
+    "Day Planner/2023-10-29.md",
+    "Day Planner",
     "草稿/组会.md",
     "草稿/中期检查20231027.md",
     "media/image1.png.md",
