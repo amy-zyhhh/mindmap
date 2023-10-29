@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +139,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d9513165fa8a5d98",
+  "active": "03989fb8fb3b8e79",
   "lastOpenFiles": [
     "2023-10-29.md",
     "2023-10-30.md",
