@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6945bfc8f4af73e",
+        "id": "5ff26980bbf6904a",
         "type": "tabs",
         "children": [
           {
-            "id": "4400b3bcc12059b1",
+            "id": "03989fb8fb3b8e79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planner/2023-10-29.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planner/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planner/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,21 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planner/2023-10-29.md"
-              }
-            }
-          },
-          {
-            "id": "14f060e6cbb9eb4a",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,9 +139,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4400b3bcc12059b1",
+  "active": "ef24f33e71f90684",
   "lastOpenFiles": [
+    "2023-10-30.md",
     "Day Planner/2023-10-29.md",
+    "Day Planner/2023-10-28.md",
     "Day Planner",
     "草稿/组会.md",
     "草稿/中期检查20231027.md",
