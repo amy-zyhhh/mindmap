@@ -11,12 +11,8 @@
             "id": "03989fb8fb3b8e79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-29.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +122,9 @@
                 "file": "2023-10-29.md"
               }
             }
-          },
-          {
-            "id": "9f5a3d465ffa3d0a",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,11 +137,10 @@
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-day-planner:Timeline": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "9f5a3d465ffa3d0a",
+  "active": "d9513165fa8a5d98",
   "lastOpenFiles": [
     "2023-10-29.md",
     "2023-10-30.md",
