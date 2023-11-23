@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b96086571513d0fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/数学物理方程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e958757a54abe71",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/组会.md",
+                "file": "草稿/数学物理方程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/组会.md",
+                "file": "草稿/数学物理方程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/组会.md"
+                "file": "草稿/数学物理方程.md"
               }
             }
           }
@@ -148,10 +160,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "03989fb8fb3b8e79",
+  "active": "b96086571513d0fb",
   "lastOpenFiles": [
-    "草稿/草稿.md",
     "草稿/组会.md",
+    "草稿/数学物理方程.md",
+    "草稿/草稿.md",
     "2023-10-29.md",
     "2023-10-30.md",
     "Day Planner/2023-10-29.md",
