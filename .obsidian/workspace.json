@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03989fb8fb3b8e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿/组会.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b96086571513d0fb",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
