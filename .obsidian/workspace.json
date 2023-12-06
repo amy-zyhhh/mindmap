@@ -11,15 +11,48 @@
             "id": "b96086571513d0fb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "45bef94c97af05a6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/数学物理方程.md",
+                "file": "草稿/0机械设计基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aafd1a383f33bbc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/0实验力学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8a3f5e1c957c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/0数值计算方法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/数学物理方程.md",
+                "file": "草稿/0数值计算方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/数学物理方程.md",
+                "file": "草稿/0数值计算方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/数学物理方程.md"
+                "file": "草稿/0数值计算方法.md"
               }
             }
           }
@@ -147,10 +180,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b96086571513d0fb",
+  "active": "d9513165fa8a5d98",
   "lastOpenFiles": [
-    "草稿/组会.md",
+    "草稿/0实验力学.md",
+    "草稿/0机械设计基础.md",
+    "草稿/0弹性力学.md",
+    "草稿/常微分方程求解.md",
+    "草稿/0数值计算方法.md",
     "草稿/数学物理方程.md",
+    "草稿/组会.md",
     "草稿/草稿.md",
     "2023-10-29.md",
     "2023-10-30.md",
@@ -161,13 +199,11 @@
     "media/image1.png.md",
     "media",
     "草稿/复变函数.md",
-    "草稿/常微分方程求解.md",
     "草稿/级数.md",
     "草稿/矩阵运算.md",
     "草稿/微分中值定理.md",
     "草稿/傅里叶变换.md",
     "基础知识",
-    "草稿/弹性力学.md",
     "未命名.canvas",
     "草稿"
   ]
