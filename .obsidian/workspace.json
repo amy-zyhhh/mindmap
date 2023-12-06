@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/0弹性力学.md",
+                "file": "草稿/0机械设计基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0弹性力学.md",
+                "file": "草稿/0机械设计基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0弹性力学.md",
+                "file": "草稿/0机械设计基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0弹性力学.md"
+                "file": "草稿/0机械设计基础.md"
               }
             }
           }
@@ -194,9 +194,9 @@
   },
   "active": "e1a3afb1e548d0ec",
   "lastOpenFiles": [
+    "草稿/0弹性力学.md",
     "草稿/1实验力学.md",
     "草稿/1数值计算方法.md",
-    "草稿/0弹性力学.md",
     "草稿/1高等动力学.md",
     "草稿/0机械设计基础.md",
     "草稿/常微分方程求解.md",
