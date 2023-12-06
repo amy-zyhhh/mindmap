@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6887723ad97ec029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/delta函数趣谈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0机械设计基础.md",
+                "file": "草稿/delta函数趣谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0机械设计基础.md",
+                "file": "草稿/delta函数趣谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0机械设计基础.md"
+                "file": "草稿/delta函数趣谈.md"
               }
             }
           }
@@ -192,13 +204,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e1a3afb1e548d0ec",
+  "active": "6887723ad97ec029",
   "lastOpenFiles": [
+    "草稿/0机械设计基础.md",
+    "草稿/delta函数趣谈.md",
     "草稿/0弹性力学.md",
     "草稿/1实验力学.md",
     "草稿/1数值计算方法.md",
     "草稿/1高等动力学.md",
-    "草稿/0机械设计基础.md",
     "草稿/常微分方程求解.md",
     "草稿/数学物理方程.md",
     "草稿/组会.md",
