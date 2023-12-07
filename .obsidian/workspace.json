@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b96086571513d0fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "45bef94c97af05a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿/0机械设计基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aafd1a383f33bbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿/1实验力学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8a3f5e1c957c7d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿/1数值计算方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a3afb1e548d0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿/0机械设计基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6887723ad97ec029",
             "type": "leaf",
             "state": {
@@ -75,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +149,11 @@
   },
   "active": "6887723ad97ec029",
   "lastOpenFiles": [
-    "草稿/0弹性力学.md",
-    "草稿/delta函数趣谈.md",
     "草稿/0机械设计基础.md",
     "草稿/1实验力学.md",
     "草稿/1数值计算方法.md",
+    "草稿/0弹性力学.md",
+    "草稿/delta函数趣谈.md",
     "草稿/1高等动力学.md",
     "草稿/常微分方程求解.md",
     "草稿/数学物理方程.md",
