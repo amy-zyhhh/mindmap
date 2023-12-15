@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/机械设计概念补充.md",
+                "file": "基础知识/机械设计概念补充.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/机械设计概念补充.md",
+                "file": "基础知识/机械设计概念补充.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/机械设计概念补充.md",
+                "file": "基础知识/机械设计概念补充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/机械设计概念补充.md"
+                "file": "基础知识/机械设计概念补充.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "174cd7ff07d7ff93",
+  "active": "d9513165fa8a5d98",
   "lastOpenFiles": [
     "基础知识/机械设计基础.md",
-    "草稿/机械设计概念补充.md",
+    "基础知识/机械设计概念补充.md",
     "草稿/0弹性力学.md",
     "草稿/1实验力学.md",
     "草稿/1数值计算方法.md",
