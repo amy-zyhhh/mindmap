@@ -8,7 +8,7 @@
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
   "pandoc": "C:\\Users\\29450\\AppData\\Local\\Pandoc\\pandoc.exe",
-  "pdflatex": null,
+  "pdflatex": "D:\\Software\\texlive\\2023\\bin\\windows\\pdflatex.exe",
   "outputFolder": "D:\\29450\\Desktop",
   "extraArguments": "",
   "exportFrom": "html"
