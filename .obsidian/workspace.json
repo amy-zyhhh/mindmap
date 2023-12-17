@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/弹性力学补充（复变函数）.md",
+                "file": "草稿/0弹性力学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/弹性力学补充（复变函数）.md",
+                "file": "草稿/0弹性力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/弹性力学补充（复变函数）.md"
+                "file": "草稿/0弹性力学.md"
               }
             }
           }
@@ -180,7 +180,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "628f45d0af605a8f",
+  "active": "bbaa421a2e73ebc0",
   "lastOpenFiles": [
     "草稿/弹性力学补充（复变函数）.md",
     "草稿/0弹性力学.md",
