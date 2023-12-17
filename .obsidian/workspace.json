@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0弹性力学.md",
+                "file": "草稿/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0弹性力学.md",
+                "file": "草稿/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0弹性力学.md"
+                "file": "草稿/00.md"
               }
             }
           }
@@ -173,10 +172,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bbaa421a2e73ebc0",
+  "active": "174cd7ff07d7ff93",
   "lastOpenFiles": [
-    "草稿/00.md",
     "草稿/0弹性力学.md",
+    "草稿/00.md",
     "草稿/0机械设计课设.md",
     "基础知识/机械设计基础.md",
     "基础知识/机械设计概念补充.md",
