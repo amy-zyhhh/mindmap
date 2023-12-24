@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca6aa1714a444ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/关于MIND MAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0机械设计课设.md",
+                "file": "草稿/关于MIND MAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0机械设计课设.md",
+                "file": "草稿/关于MIND MAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0机械设计课设.md"
+                "file": "草稿/关于MIND MAP.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bbaa421a2e73ebc0",
+  "active": "ca6aa1714a444ddc",
   "lastOpenFiles": [
+    "草稿/0机械设计课设.md",
+    "草稿/关于MIND MAP.md",
     "草稿/0数值计算方法.md",
     "草稿/0实验力学.md",
     "草稿/0高等动力学.md",
     "基础知识/弹性力学.md",
     "草稿/00.md",
     "草稿/弹性力学补充（复变函数）.md",
-    "草稿/0机械设计课设.md",
     "基础知识/机械设计基础.md",
     "基础知识/机械设计概念补充.md",
     "草稿/delta函数趣谈.md",
