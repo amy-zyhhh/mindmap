@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/0机械设计课设.md",
+                "file": "草稿/0高等动力学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0机械设计课设.md",
+                "file": "草稿/0高等动力学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0机械设计课设.md",
+                "file": "草稿/0高等动力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0机械设计课设.md"
+                "file": "草稿/0高等动力学.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "bbaa421a2e73ebc0",
   "lastOpenFiles": [
-    "草稿/0高等动力学.md",
     "草稿/0机械设计课设.md",
+    "草稿/0高等动力学.md",
     "草稿/0实验力学.md",
     "草稿/级数.md",
     "草稿/关于MIND MAP.md",
