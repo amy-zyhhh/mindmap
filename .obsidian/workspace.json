@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "草稿/机械设计课设.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -162,8 +162,11 @@
   },
   "active": "f4c4722d42567ae3",
   "lastOpenFiles": [
-    "草稿/0高等动力学.md",
+    "草稿/attachments/传动简图.jpg",
+    "草稿/attachments",
+    "草稿/传动简图.jpg",
     "草稿/机械设计课设.md",
+    "草稿/0高等动力学.md",
     "草稿/0实验力学.md",
     "草稿/级数.md",
     "草稿/关于MIND MAP.md",
@@ -189,7 +192,6 @@
     "草稿/复变函数.md",
     "草稿/矩阵运算.md",
     "草稿/微分中值定理.md",
-    "草稿/傅里叶变换.md",
     "基础知识",
     "未命名.canvas",
     "草稿"

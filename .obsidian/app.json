@@ -2,10 +2,10 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "trashOption": "local",
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
