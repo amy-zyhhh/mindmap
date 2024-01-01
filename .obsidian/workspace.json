@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/0数值计算方法.md",
+                "file": "草稿/实验力学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/0数值计算方法.md",
+                "file": "草稿/实验力学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/0数值计算方法.md",
+                "file": "草稿/实验力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/0数值计算方法.md"
+                "file": "草稿/实验力学.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "39c2de00580656fc",
+  "active": "d9513165fa8a5d98",
   "lastOpenFiles": [
+    "草稿/0数值计算方法.md",
     "草稿/机械设计课设.md",
     "草稿/高等动力学.md",
     "草稿/级数.md",
@@ -163,9 +164,8 @@
     "草稿/attachments/传动简图.jpg",
     "草稿/attachments",
     "草稿/传动简图.jpg",
-    "草稿/0实验力学.md",
+    "草稿/实验力学.md",
     "草稿/关于MIND MAP.md",
-    "草稿/0数值计算方法.md",
     "基础知识/弹性力学.md",
     "草稿/00.md",
     "草稿/弹性力学补充（复变函数）.md",
