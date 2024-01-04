@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/实验力学.md",
+                "file": "草稿/机械设计课设.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2e958757a54abe71",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/实验力学.md",
+                "file": "草稿/机械设计课设.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/实验力学.md",
+                "file": "草稿/机械设计课设.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/实验力学.md"
+                "file": "草稿/机械设计课设.md"
               }
             }
           }
@@ -148,8 +149,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d9513165fa8a5d98",
+  "active": "39c2de00580656fc",
   "lastOpenFiles": [
+    "草稿/实验力学.md",
     "草稿/0数值计算方法.md",
     "草稿/机械设计课设.md",
     "草稿/高等动力学.md",
@@ -164,7 +166,6 @@
     "草稿/attachments/传动简图.jpg",
     "草稿/attachments",
     "草稿/传动简图.jpg",
-    "草稿/实验力学.md",
     "草稿/关于MIND MAP.md",
     "基础知识/弹性力学.md",
     "草稿/00.md",
