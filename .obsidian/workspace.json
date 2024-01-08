@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6c8077cec6d8c4fb",
+        "id": "da5423ac7cbde750",
         "type": "tabs",
         "children": [
           {
-            "id": "39c2de00580656fc",
+            "id": "425834cac5a5f6f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/机械设计课设.md",
+                "file": "草稿/常微分方程求解.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c355a1e7de05399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/自适应控制.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2e958757a54abe71",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/机械设计课设.md",
+                "file": "草稿/自适应控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/机械设计课设.md",
+                "file": "草稿/自适应控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/机械设计课设.md"
+                "file": "草稿/自适应控制.md"
               }
             }
           }
@@ -149,11 +161,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "39c2de00580656fc",
+  "active": "7c355a1e7de05399",
   "lastOpenFiles": [
+    "草稿/常微分方程求解.md",
+    "草稿/自适应控制.md",
+    "草稿/机械设计课设.md",
     "草稿/实验力学.md",
     "草稿/0数值计算方法.md",
-    "草稿/机械设计课设.md",
     "草稿/高等动力学.md",
     "草稿/级数.md",
     "草稿/attachments/低速轴受力2.png",
@@ -173,7 +187,6 @@
     "基础知识/机械设计基础.md",
     "基础知识/机械设计概念补充.md",
     "草稿/delta函数趣谈.md",
-    "草稿/常微分方程求解.md",
     "草稿/数学物理方程.md",
     "草稿/组会.md",
     "草稿/草稿.md",
