@@ -2,5 +2,6 @@
   "accentColor": "",
   "nativeMenus": false,
   "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
